@@ -25,7 +25,7 @@ A Staff Engineer is a technical leader whose impact is seen across their team an
 * Turns ideas into actions and mentors others to do the same.
 
 ### Ownership
-* Resolves ambiguity in requirements and priorities of tasks
+* Resolves ambiguity in requirements and priorities of tasks.
 * Takes responsibility for the product, including technical architecture and system design.
 * Assumes accountability for other engineers’ work.
 * Provides guidance as an SME within the team and develops expertise the team needs.
