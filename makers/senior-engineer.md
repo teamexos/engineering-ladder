@@ -6,7 +6,7 @@ Senior Engineer
 A Senior Engineer is a technical mentor and problem solver for their team and often their impact is seen across the entire engineering organization. They passionately lead architecture and development of high quality features and components. They work closely with other engineers, product managers, designers, and people across all disciplines to solve customer problems and deliver on team goals. A Senior Engineer typically has at least 5 years of engineering and feature development leadership experience.
 
 ### Customer-focused problem solving
-* Prioritizes customer impact over just code quality at a module/component level
+* Prioritizes customer impact over just code quality at a module/component level.
 * Avoids premature optimization and instead practices iteration and evolutionary architecture.
 
 ### Communication
