@@ -32,4 +32,3 @@ An Engineering Director is a passionate technical and management leader of multi
 * Coordinates and clearly communicates team priorities and dependencies for their engineering group.
 * Collaborates with other leaders to set cross-functional priorities and goals. 
 * Understands the impact that the work has on the mission and team OKRs and goals. Communicates those to team members.
-
