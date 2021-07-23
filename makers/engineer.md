@@ -27,4 +27,4 @@ An Engineer is passionate about writing high quality software that solves real c
 * Understands the requirements and priority of a task and the definition of done.
 * Completes tasks in a timely and quality manner that carefully considers customer needs.
 * Raises issues or questions around ambiguity with requirements and specifications.
-* Proactively and passionately seeks learning opportunities & professional development.
+* Proactively and passionately seeks learning opportunities & professional development
