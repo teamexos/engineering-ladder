@@ -9,12 +9,10 @@ A Senior Engineer is a technical mentor and problem solver for their team and of
 * Prioritizes customer impact over just code quality at a module/component level
 * Avoids premature optimization and instead practices iteration and evolutionary architecture.
 
-
 ### Communication
 * Actively participates in both technical and non-technical discussions.
 * Documents architecture, software setup, and things learned so the whole team can share knowledge and improve.
 * Knows how to advocate for and defend alternate ideas.
-
 
 ### Delivery
 * Participates in all phases involved in the team’s shipping of product features including architecture, design reviews, project planning, documentation, execution, and post-launch monitoring.
@@ -26,7 +24,6 @@ A Senior Engineer is a technical mentor and problem solver for their team and of
 * Assumes responsibility for success of deliverables.
 * Understands how to delegate and when it’s necessary.
 * Mentors and develops other engineers.
-
 
 ### Ownership
 * Understands the requirements and priorities of multiple stories/tasks.
