@@ -27,7 +27,7 @@ There are two paths in our Engineering Ladder:
 ### Managers path
 
 * [Engineering Manager](managers/engineering-manager.md)
-* [Engineering Director](managers/director-engineering.md)
+* [Engineering Director](managers/engineering-director.md)
 * [VP, Engineering](managers/vp-engineering.md)
 
 
