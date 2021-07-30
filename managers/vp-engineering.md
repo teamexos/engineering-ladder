@@ -14,9 +14,9 @@ A VP, Engineering is a passionate technical and management leader of the entire 
 
 ### Coaching
 * Sets clear expectations across the engineering organization and with those outside the engineering organization.
-Advocates for the engineering organization and holds the organization accountable.
-Solves organization and system-level problems with other leaders.
-Empowers the engineering organization with the practices, relationships, and tools to understand their customers.
+* Advocates for the engineering organization and holds the organization accountable.
+* Solves organization and system-level problems with other leaders.
+* Empowers the engineering organization with the practices, relationships, and tools to understand their customers.
 
 ### Delivery
 * Guides teams and their leaders to set aggressive OKRs and goals to maximize the ability of teams to continually deliver impact more efficiently.
