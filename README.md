@@ -18,7 +18,7 @@ An Engineering Ladder helps engineers understand how they can grow in their care
 
 An Engineering Ladder is not a promotion checklist. It’s designed to help an engineer understand what impact could look like at each level. It is not an exhaustive list of categories and behaviors. We've chosen the most important categories for Exos and each includes a few key behaviors as guides. Managers will work with engineers on goals and expectations for their work. 
 
-There are two paths in our Engineering Ladder:
+#### Engineering Ladder paths
 
 **Makers:** impact team success by delivering the software and product that customers value.<br>
 **Managers:** impact team success by delivering and developing the people into high performing teams.
