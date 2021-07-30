@@ -7,7 +7,7 @@ A VP, Engineering is a passionate technical and management leader of the entire 
 
 ### Team building
 * Identifies capabilities needed and recruits engineering leaders (managers/directors/principals/leads) across the department.
-* Provides clear expectations, support, and coaching to engineering leaders. 
+* Provides clear expectations, direction, and support to engineering leaders. 
 * Communicates common engineering vision, strategy, and technical direction across engineering and related functions (product, design, data, business).
 * Builds strong relationships and fosters communication with leaders and others across functions (product, design, data, business, operations, etc).
 * Ensures that there is regular participation in the engineering community through conference talks, blog posts, and open source project contributions.
