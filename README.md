@@ -10,6 +10,14 @@ We believe that creating an Engineering Ladder will help us achieve our mission 
 * Managers have consistent, objective criteria on which to base promotions and compensation.
 * We know what to expect of ourselves and each other, so we can focus on doing great work together.
 
+An Engineering Ladder is
+
+An Engineering Ladder helps engineers understand how they can grow in their career and have the most impact. It helps managers set expectations with teams and hold them accountable for their work.
+
+An Engineering Ladder is not
+
+An Engineering Ladder is not a promotion checklist. It’s designed to help an engineer understand what impact could look like at each level. It is not an exhaustive list of categories and behaviors. We've chosen the most important categories for Exos and each includes a few key behaviors as guides. Managers will work with engineers on goals and expectations for their work. 
+
 There are two paths in our Engineering Ladder:
 
 **Makers:** impact team success by delivering the software and product that customers value.<br>
